@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "string.h": "c",
+        "wchar.h": "c",
+        "wctype.h": "c",
+        "stdlib.h": "c"
+    }
+}
